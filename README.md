@@ -1,2 +1,2 @@
 # recriando-jogo-da-cobrinha-aula-dio
- recriando jogo da cobrinha com a prof Spruce Gabriela
+ recriando jogo da cobrinha com a prof Spruce Gabriela aula plataforma DIO
